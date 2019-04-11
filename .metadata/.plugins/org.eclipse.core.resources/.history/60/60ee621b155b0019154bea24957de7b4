@@ -1,0 +1,5 @@
+package com.car.demo.dao;
+
+public class CarDao {
+
+}
